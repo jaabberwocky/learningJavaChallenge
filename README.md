@@ -1,1 +1,3 @@
-"# Learning Java on Lynda" 
+# Learning Java on Lynda
+
+Response to challenge #1
